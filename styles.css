@@ -1,7 +1,14 @@
+/*---- MODULE 0: Publish a Webpage ----*/
+/* Sarah Moore*/
+/* This file contains the CSS styles for module 0: Publish a Webpage*/
+
+/*---- Styles for h1 element ----*/
+
 h1{
   background-color: #dfc7ff;
   color: #51008d;
   font-size: 4rem;
   padding: 20px;
   text-align: center;
+  border-bottom: 5px solid #51008d;
 }
