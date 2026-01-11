@@ -5,6 +5,7 @@
 /*---- Styles for h1 element ----*/
 
 h1{
+  font-family: "ITC Benguiat", Times, serif;
   background-color: #dfc7ff;
   color: #51008d;
   font-size: 4rem;
